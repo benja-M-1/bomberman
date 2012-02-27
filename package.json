@@ -1,0 +1,12 @@
+{
+    "name":    "Bomberman",
+    "version": "0.0.1",
+    "author":  "Benjamin Grandfond",
+    "private": true,
+    "dependencies": {
+        "express":   "2.5.8",
+        "jade":      ">= 0.20.3",
+        "backbone":  "0.9.1",
+        "socket.io": "0.8.7"
+    }
+}

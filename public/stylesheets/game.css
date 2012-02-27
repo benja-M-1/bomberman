@@ -1,0 +1,12 @@
+#combat-zone {
+    position: relative;
+    margin: 5px;
+    border: 1px solid #BBB;
+    background: #F7F7F7;
+    width: 200px;
+    height: 150px;
+}
+
+#score-zone {
+
+}
